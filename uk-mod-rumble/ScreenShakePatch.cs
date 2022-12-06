@@ -51,6 +51,7 @@ namespace RumbleMod
         public static void RemoveHooks()
         {
             On.CameraController.Update -= CameraController_Update;
+            On.HookArm.Update -= HookArm_Update;
         }
     }
 }

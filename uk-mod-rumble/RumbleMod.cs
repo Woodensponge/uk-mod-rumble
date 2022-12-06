@@ -8,7 +8,7 @@ using UnityEngine.InputSystem;
 namespace RumbleMod
 {
 #if UMM
-    [UKPlugin("Rumble", "1.0.0", "Adds controller (or not a controller) rumble into the game.", true, true)]
+    [UKPlugin("Rumble", "1.0.1", "Adds controller (or not a controller) rumble into the game.", true, true)]
     public class RumbleMod : UKMod
     {
         public enum RumblePriority
