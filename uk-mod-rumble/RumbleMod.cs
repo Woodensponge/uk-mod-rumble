@@ -39,6 +39,10 @@ namespace RumbleMod
 
         public void SetRumble(float rumble)
         {
+            if (Gamepad.current == null)
+            {
+                return;
+            }
             Gamepad.current.SetMotorSpeeds(rumble, rumble);
         }
 
@@ -82,6 +86,10 @@ namespace RumbleMod
 
         public void SetRumble(float rumble)
         {
+            if (Gamepad.current == null)
+            {
+                return;
+            }
             Gamepad.current.SetMotorSpeeds(rumble, rumble);
         }
 
