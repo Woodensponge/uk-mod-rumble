@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uk-mod-rumble", "uk-mod-rumble.csproj", "{58BD6B48-2B73-4643-B56C-7F2A52C0D1AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		BepinexDebug|Any CPU = BepinexDebug|Any CPU
+		BepinexRelease|Any CPU = BepinexRelease|Any CPU
+		UMMDebug|Any CPU = UMMDebug|Any CPU
+		UMMRelease|Any CPU = UMMRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58BD6B48-2B73-4643-B56C-7F2A52C0D1AE}.BepinexDebug|Any CPU.ActiveCfg = BepinexDebug|Any CPU
+		{58BD6B48-2B73-4643-B56C-7F2A52C0D1AE}.BepinexDebug|Any CPU.Build.0 = BepinexDebug|Any CPU
+		{58BD6B48-2B73-4643-B56C-7F2A52C0D1AE}.BepinexRelease|Any CPU.ActiveCfg = BepinexRelease|Any CPU
+		{58BD6B48-2B73-4643-B56C-7F2A52C0D1AE}.BepinexRelease|Any CPU.Build.0 = BepinexRelease|Any CPU
+		{58BD6B48-2B73-4643-B56C-7F2A52C0D1AE}.UMMDebug|Any CPU.ActiveCfg = UMMDebug|Any CPU
+		{58BD6B48-2B73-4643-B56C-7F2A52C0D1AE}.UMMDebug|Any CPU.Build.0 = UMMDebug|Any CPU
+		{58BD6B48-2B73-4643-B56C-7F2A52C0D1AE}.UMMRelease|Any CPU.ActiveCfg = UMMRelease|Any CPU
+		{58BD6B48-2B73-4643-B56C-7F2A52C0D1AE}.UMMRelease|Any CPU.Build.0 = UMMRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E9691E7-2F6B-4FFB-80A2-B81B23608A86}
+	EndGlobalSection
+EndGlobal
